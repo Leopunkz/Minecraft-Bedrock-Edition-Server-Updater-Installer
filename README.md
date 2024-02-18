@@ -25,5 +25,10 @@ that's in the hope that if one day someone want's to use old device to play in t
 at least i hope so it's a try if you don't want this feature you can edit the file this way:
 
 EDIT:
-Comment Out this lines:
+Comment Out this line:
 mkdir old-bedrock-server-versions
+
+and remove this one:
+&& cp $name ../old-bedrock-server-versions/$name
+
+not all of it just that.
