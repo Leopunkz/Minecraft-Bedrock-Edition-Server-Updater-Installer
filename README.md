@@ -23,3 +23,7 @@ OTHER FEATURE OF THE UPDATER:
 For now just one it keeps the version you had before the update every time and collect them in a folder 
 that's in the hope that if one day someone want's to use old device to play in the server than it's possible to downgrade it 
 at least i hope so it's a try if you don't want this feature you can edit the file this way:
+
+EDIT:
+Comment Out this lines:
+mkdir old-bedrock-server-versions
