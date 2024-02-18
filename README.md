@@ -3,7 +3,8 @@ two simple scripts for loosing less time upgrading the bedrock server.
 
 DO NOT USE THE INSTALLER WHEN YOU ALREADY HAVE BES INSTALLED.
 
-both Updater and the installer needs that you paste the link grabbed from the web page.
+both Updater and the installer needs that you paste the link grabbed from the web page
+so if you have a headless server you can SSH into it.
 
 PLEASE NOTE: IF YOU DO NOT HAVE A SYSTEMCTL SERVICE FOR YOUR MINECRAFT SERVER FOR START AT BOOT, AS IS THE UPDATER CAN THROW AN ERROR, NOTHING BRUTAL ANYWAYS
 BUT IT'S BETTER IF YOU JUST COMMENT EVERY LINE WITH SYSTEMCTL STUFF ON IT:
