@@ -1,7 +1,7 @@
 #!/bin/bash
-
 #Simple shell script to update the damn linux bedrock-server with a bit more ease.
 
+sudo systemctl stop bedrock-server.service
 
 echo 'Enter here the url for the updated bedrock-server download from the page:'
 
