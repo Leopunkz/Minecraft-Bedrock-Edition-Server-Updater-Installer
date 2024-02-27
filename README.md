@@ -1,6 +1,9 @@
 # Minecraft-Bedrock-Edition-Server-Updater-Installer
 two simple scripts for loosing less time upgrading the bedrock server.
 
+PLEASE NOTE THAT I AM NOT A DEVELOPER I DO WHAT I CAN AS A BEGINNER
+SO IT'S PROBABLY BETTER IF YOU TEST IT IN A SECURE WAY OR AT LEAST MAKE A COPY OF YOU WORLD FIRST!
+
 DO NOT USE THE INSTALLER WHEN YOU ALREADY HAVE BES INSTALLED.
 
 both Updater and the installer needs that you paste the link grabbed from the web page
